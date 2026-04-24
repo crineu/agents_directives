@@ -1,2 +1,3 @@
 # agents_directives
-Diretrizes para agentes de IA
+
+Conjunto de diretrizes, skills e orientações para agentes de IA
